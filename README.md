@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 #### My contact
 
-[![mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sarachanvv@gmail.com) [![telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me:@VlaSard)
+[![mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sarachanvv@gmail.com) [![telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/VlaSard)
