@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 #### My skills
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)<br>
 ![bash](https://img.shields.io/badge/Posix%20sh-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)<br>
@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 #### My contact
 
 [![mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sarachanvv@gmail.com) [![telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/VlaSard)
+-->
