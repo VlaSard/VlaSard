@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 #### My OS
 ![manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)![Gnome](https://img.shields.io/badge/Gnome-4A86CF?style=for-the-badge&logo=Gnome&logoColor=white)
 
-#### My GitHub-->
+#### My GitHub
 ![github stats](https://github-readme-stats.vercel.app/api?username=VlaSard&show_icons=true&theme=merko)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VlaSard&theme=merko)
-<!--
+
 #### My contact
 
 [![mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sarachanvv@gmail.com) [![telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/VlaSard)
