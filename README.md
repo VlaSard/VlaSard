@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 ![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)<br>
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)<br>
 ![perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=Perl&logoColor=white)<br>
-
+-->
 #### My IDE
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)<br>
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white)<br>
 ![CodeOSS](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)<br>
 
 #### My OS
-![manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)![Gnome](https://img.shields.io/badge/Gnome-4A86CF?style=for-the-badge&logo=Gnome&logoColor=white)
+![manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)![Kde](https://img.shields.io/badge/Kde-4A86CF?style=for-the-badge&logo=Kde&logoColor=white)
 
 #### My GitHub
 ![github stats](https://github-readme-stats.vercel.app/api?username=VlaSard&show_icons=true&theme=merko)
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 #### My contact
 
 [![mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sarachanvv@gmail.com) [![telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/VlaSard)
--->
+
